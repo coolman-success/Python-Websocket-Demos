@@ -2,9 +2,11 @@
 # Python Websocket Demos
 
 ## Table of Contents
-[Install Dependencies](#install-dependencies)
-[Ex1](#ex1)
-[Ex2](#ex2)
+
+- [Install Dependencies](#install-dependencies)
+- [Ex1](#ex1)
+- [Ex2](#ex2)
+- [References](#references)
 
 ## Install Dependencies
 
@@ -43,3 +45,8 @@ pip install -r requirements.txt
     ```python
     python -m http.server --directory ex2
     ```
+
+### References
+
+- `ex1` is created following [ParametricCamp's websocket tutorial](https://youtu.be/tgtb9iucOts?list=PLx3k0RGeXZ_wZ_gYpYXfH6FTK7e0cDL0k)
+- `ex2` was referenced from Python [websockets package documentation](https://websockets.readthedocs.io/en/stable/index.html)
